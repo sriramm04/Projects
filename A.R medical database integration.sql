@@ -1,0 +1,10 @@
+CREATE DATABASE Pharmacy;
+use Pharmacy;
+select * from customer_table;
+select  * from customer_table where Bill_Amount > 1000;
+select * from monthly_sales order by(bill_amount) desc;
+select * from sales_and_tax;
+select * from peak_hours;
+select * from monthly_sales order by date(Month_year);
+show tables;
+select * from customer_table;
