@@ -1,6 +1,6 @@
 # Pharmacy Data Analysis and Visualization Project
 
-## Project Banner
+## Project Dashboard
 ![A R MEDICAL DASHBOARD](https://github.com/sriramm04/Projects/assets/129077845/a6f4b074-92e0-41cb-b2bc-cbbcf62960de)
 
 
