@@ -30,7 +30,7 @@ Hello there! Welcome to my **Pharmacy Data Analysis and Visualization project** 
 
 ## How to Use
 
-1. **Data Exploration:** Begin your exploration by immersing yourself in the world of data. The Jupyter Notebook files in the `data_analysis` directory will be your guides. They'll walk you through the process of cleaning, transforming, and analyzing the data.
+1. **Data Exploration:** Begin your exploration by immersing yourself in the world of data. The Jupyter Notebook files in the `Pharmacy_data_analysis.ipynb` directory will be your guides. They'll walk you through the process of cleaning, transforming, and analyzing the data.
 
 2. **Database Integration:** For a deeper dive, head over to the `A.R medical database integration.sql` directory. There, you'll find SQL scripts and setup instructions to integrate the cleansed data into a MySQL database. This step enhances data accessibility and sets the stage for advanced queries.
 
