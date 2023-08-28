@@ -1,7 +1,8 @@
 # Pharmacy Data Analysis and Visualization Project
 
 ## Project Dashboard
-![A R MEDICAL DASHBOARD](https://github.com/sriramm04/Projects/assets/129077845/a6f4b074-92e0-41cb-b2bc-cbbcf62960de)
+![A R MEDICAL DASHBOARD](https://github.com/sriramm04/Projects/assets/129077845/dc604f59-fadb-400d-9687-61fcbcd6563f)
+
 
 
 ## Overview
@@ -31,7 +32,7 @@ Hello there! Welcome to my **Pharmacy Data Analysis and Visualization project** 
 
 1. **Data Exploration:** Begin your exploration by immersing yourself in the world of data. The Jupyter Notebook files in the `data_analysis` directory will be your guides. They'll walk you through the process of cleaning, transforming, and analyzing the data.
 
-2. **Database Integration:** For a deeper dive, head over to the `database_integration` directory. There, you'll find SQL scripts and setup instructions to integrate the cleansed data into a MySQL database. This step enhances data accessibility and sets the stage for advanced queries.
+2. **Database Integration:** For a deeper dive, head over to the `A.R medical database integration.sql` directory. There, you'll find SQL scripts and setup instructions to integrate the cleansed data into a MySQL database. This step enhances data accessibility and sets the stage for advanced queries.
 
 3. **Experience the Insights:** The pinnacle of this project is the interactive dashboard located in the `dashboard` directory. Crafted using Power BI, it bridges the gap between raw data and meaningful insights. Navigate through the various visualizations, slice and dice data, and witness trends unfold.
 
