@@ -2,6 +2,8 @@
 
 ## Pharmacy Dashboard
 ![A R MEDICAL DASHBOARD](https://github.com/sriramm04/Projects/assets/129077845/839a9241-b9f8-4d6b-aab3-2a5631bd0328)
+![A R MEDICAL DASHBOARD](https://github.com/sriramm04/Projects/assets/129077845/b10adda8-a171-4466-9721-45ee3abaec4f)
+
 ![A R MEDICAL DASHBOARD](https://github.com/sriramm04/Projects/assets/129077845/a3f3ca65-d5bb-4b3a-9301-a0a909d682a7)
 
 
